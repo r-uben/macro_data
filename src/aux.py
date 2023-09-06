@@ -18,7 +18,7 @@ class Aux:
         base_url = "https://api.stlouisfed.org/fred/series/observations"
         params = {
         "series_id": series_id,
-        "api_key": "f1f34b60038a5ed90784a340985b0e50",
+        "api_key": "YOUR API KEY",
         "file_type": "json",
         "realtime_end": "9999-12-31",
         "observation_start": "1947-01-01"
