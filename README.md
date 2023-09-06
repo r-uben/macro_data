@@ -1,8 +1,12 @@
-# DatasetOutput Module
+# Macro Data repository
+
+This repository provides different modules for extracting different macor data for the US and the Euro zone.
+
+## DatasetOutput Module
 
 This module provides tools for extracting and processing GDP and Output Gap data for various countries, focusing on the Euro Zone and the US.
 
-## Features:
+### Features:
 1. **Imports:** 
    - Essential libraries like `pandas`, and `numpy``.
    - `Aux` class from `src.aux` module for auxiliary functionalities.
